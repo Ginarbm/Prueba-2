@@ -1,0 +1,72 @@
+
+
+
+header{
+	background-color:transparent;
+	padding: 20px 0;
+	position: absolute;
+	width: 100%;
+	z-index: 999999;
+ }
+span{
+	color: #fba755;
+}
+#home{
+	background-image: url("../img/home-header-bg.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	color: #fff;
+	padding: 12% 0;
+	text-align: left;
+}
+#home h3{
+	font-size: 15px;
+	font-weight: 400;
+	margin-bottom: 70px;
+}
+.btn-running{
+	background:#fba755;
+	color: #fff;
+	text-transform: uppercase;
+	border-radius: 0;
+	padding: 15px 30px;
+	border: 0;
+	letter-spacing: 1px;
+	
+}
+.btn-running:hover{
+	background: #fff;
+	transition: all 0.0s ease-in-out;	
+}
+
+#coaches h1{
+	text-align: center;
+	margin-top: 60px;
+	font-size: 50px;
+	font-weight: 800;
+	margin-bottom: 60px;
+}
+footer{
+	background-color:#272525;
+	padding: 20px 0;
+	color: #fff;
+	font-size: 13px;
+	text-align: center;
+}
+footer ul{
+	text-align: center;
+}
+footer ul li{
+	padding-right: 15px;
+}
+footer ul li a{
+	color: #fba755;
+	font-size: 16px;
+}
+
+footer ul li  p{
+	color: #fba755;
+	font-size: 16px;
+	text-align: center;
+}
